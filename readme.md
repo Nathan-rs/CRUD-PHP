@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="CRUD-PDO" src="CRUD.PNG" width="100%">
+  <img alt="CRUD-PDO" src=".github/CRUD.PNG" width="100%">
 </p>
 
 ## 💻 Tecnologias
